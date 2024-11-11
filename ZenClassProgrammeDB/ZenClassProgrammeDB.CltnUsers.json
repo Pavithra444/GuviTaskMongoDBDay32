@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "672ebc4fd2f31f47746cb2d4"
+  },
+  "user_id": "1001",
+  "user_name": "Pavithra",
+  "mail_id": "b.pavithra444@gmail.com",
+  "password": "abc123",
+  "batch_name": "FSD60WE-T",
+  "mentor_id": "2001"
+},
+{
+  "_id": {
+    "$oid": "672ebc83d2f31f47746cb2d5"
+  },
+  "user_id": "1002",
+  "user_name": "Satheesh",
+  "mail_id": "b.satheesh@gmail.com",
+  "password": "efg123",
+  "batch_name": "FSD60WE-T",
+  "mentor_id": "2001"
+},
+{
+  "_id": {
+    "$oid": "672ebca2d2f31f47746cb2d6"
+  },
+  "user_id": "1003",
+  "user_name": "Kavinaya",
+  "mail_id": "kavinaya@gmail.com",
+  "password": "hik123",
+  "batch_name": "FSD60WE-T",
+  "mentor_id": "2001"
+},
+{
+  "_id": {
+    "$oid": "672ebcd6d2f31f47746cb2d7"
+  },
+  "user_id": "1004",
+  "user_name": "Saranya",
+  "mail_id": "saran@gmail.com",
+  "password": "abc456",
+  "batch_name": "FSD61WE-E",
+  "mentor_id": "3001"
+},
+{
+  "_id": {
+    "$oid": "672ebd03d2f31f47746cb2d8"
+  },
+  "user_id": "1005",
+  "user_name": "Sashtika",
+  "mail_id": "sasti@gmail.com",
+  "password": "abc789",
+  "batch_name": "FSD61WE-E",
+  "mentor_id": "3001"
+}]

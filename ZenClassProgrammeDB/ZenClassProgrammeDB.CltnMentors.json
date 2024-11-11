@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "672ecd3a7150d999f1fb632a"
+  },
+  "mentor_id": "3001",
+  "mentor_name": "VishnuVardhan",
+  "batch_name": "FSD60WE-T",
+  "no_of_students": 60
+},
+{
+  "_id": {
+    "$oid": "672ecd597150d999f1fb632b"
+  },
+  "mentor_id": "3002",
+  "mentor_name": "Ragav",
+  "batch_name": "FSD61WE-E",
+  "no_of_students": 13
+},
+{
+  "_id": {
+    "$oid": "672ecd877150d999f1fb632c"
+  },
+  "mentor_id": "3003",
+  "mentor_name": "Ishwarya",
+  "batch_name": "FSD62WE-T",
+  "no_of_students": 48
+},
+{
+  "_id": {
+    "$oid": "672ecd9e7150d999f1fb632d"
+  },
+  "mentor_id": "3004",
+  "mentor_name": "Mohan",
+  "batch_name": "FSD63WE-E",
+  "no_of_students": 14
+}]

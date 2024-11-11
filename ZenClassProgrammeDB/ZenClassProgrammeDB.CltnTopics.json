@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "672ec40f7150d999f1fb6321"
+  },
+  "batch_name": "FSD60WE-T",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "topic_name": "MongoDB intoduction",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "672ec4317150d999f1fb6322"
+  },
+  "batch_name": "FSD60WE-T",
+  "session_dateTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "topic_name": "MongoDB functions",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "672ec4447150d999f1fb6323"
+  },
+  "batch_name": "FSD61WE-E",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "topic_name": "NodeJS intoduction",
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "672ec47a7150d999f1fb6324"
+  },
+  "batch_name": "FSD61WE-E",
+  "session_dateTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "topic_name": "NodeJS Functions",
+  "status": "not completed"
+}]

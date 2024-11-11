@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "672ec7397150d999f1fb6325"
+  }
+},
+{
+  "_id": {
+    "$oid": "672ec8d57150d999f1fb6326"
+  },
+  "batch_name": "FSD60WE-T",
+  "session_datTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "user_id": "1001",
+  "task_name": "DB Model",
+  "task_desc": "Design Sample db model for zenclass",
+  "task_status": "completed"
+},
+{
+  "_id": {
+    "$oid": "672ec92a7150d999f1fb6327"
+  },
+  "batch_name": "FSD60WE-T",
+  "session_datTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "user_id": "1001",
+  "task_name": "Design DataBase",
+  "task_desc": "Create DataBase and insert values",
+  "task_status": "not completed"
+},
+{
+  "_id": {
+    "$oid": "672ec9417150d999f1fb6328"
+  },
+  "batch_name": "FSD60WE-T",
+  "session_datTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "user_id": "1002",
+  "task_name": "Design DataBase",
+  "task_desc": "Create DataBase and insert values",
+  "task_status": "completed"
+},
+{
+  "_id": {
+    "$oid": "672ec95c7150d999f1fb6329"
+  },
+  "batch_name": "FSD60WE-T",
+  "session_datTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "user_id": "1002",
+  "task_name": "DB Model",
+  "task_desc": "Design Sample db model for zenclass",
+  "task_status": "completed"
+}]

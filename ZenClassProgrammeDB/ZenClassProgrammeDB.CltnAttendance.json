@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "672ec165d2f31f47746cb2e2"
+  },
+  "user_id": "1001",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Present"
+},
+{
+  "_id": {
+    "$oid": "672ec178d2f31f47746cb2e3"
+  },
+  "user_id": "1002",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Present"
+},
+{
+  "_id": {
+    "$oid": "672ec180d2f31f47746cb2e4"
+  },
+  "user_id": "1003",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Present"
+},
+{
+  "_id": {
+    "$oid": "672ec18dd2f31f47746cb2e5"
+  },
+  "user_id": "1004",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Absent"
+},
+{
+  "_id": {
+    "$oid": "672ec19cd2f31f47746cb2e6"
+  },
+  "user_id": "1005",
+  "session_dateTime": {
+    "$date": "2024-10-18T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Absent"
+},
+{
+  "_id": {
+    "$oid": "672ec1c9d2f31f47746cb2e7"
+  },
+  "user_id": "1001",
+  "session_dateTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Present"
+},
+{
+  "_id": {
+    "$oid": "672ec1d6d2f31f47746cb2e8"
+  },
+  "user_id": "1002",
+  "session_dateTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Present"
+},
+{
+  "_id": {
+    "$oid": "672ec1ead2f31f47746cb2e9"
+  },
+  "user_id": "1003",
+  "session_dateTime": {
+    "$date": "2024-10-19T10:10:30.000Z"
+  },
+  "batch_name": "FSD60WE-T",
+  "status": "Present"
+}]
